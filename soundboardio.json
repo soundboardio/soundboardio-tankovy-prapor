@@ -1,0 +1,108 @@
+{
+  "name": "Tankový prapor",
+  "shortName": "tankovy-prapor",
+  "description": "Co je to za hovado?",
+  "story": [
+    "Tankový prapor je český film z roku 1991, natočený podle stejnojmenného románu Josefa Škvoreckého. Děj sleduje absurdní život vojáků v československé armádě padesátých let, kde se proplétají tragikomické situace a sarkastický humor.",
+    "Film režíroval Vít Olmer. V hlavních rolích se objevili Lukáš Vaculík jako Danny Smiřický, Miroslav Donutil, Simona Chytrová a další."
+  ],
+  "color": "#943100",
+  "rootUrl": "sounds/",
+  "author": {
+    "name": "AquaSoup",
+    "url": "https://aquasoup.com"
+  },
+  "lang": "cs",
+  "version": "1.0.0",
+  "icons": [
+    {
+      "src": "/icons/og-image.jpg",
+      "sizes": "1280x720",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icons/icon-192x192.jpg",
+      "sizes": "192x192",
+      "purpose": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icons/icon-512x512.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "tiles": [
+    {
+      "name": "Andeline, jeď prosimtě",
+      "filename": "andeline-jed-prosimte.mp3"
+    },
+    {
+      "name": "Co je to za hovado",
+      "filename": "co-je-to-za-hovado.mp3"
+    },
+    {
+      "name": "Co to mělo být? To měla být střela ze zastávky",
+      "filename": "co-to-melo-byt-to-mela-byt-strela-ze-zastavky.mp3"
+    },
+    {
+      "name": "Cože?!",
+      "filename": "coze.mp3"
+    },
+    {
+      "name": "Hajzle",
+      "filename": "hajzle.mp3"
+    },
+    {
+      "name": "Hejbej s tom trochu, ať má radost",
+      "filename": "hejbej-s-tom-trochu-at-ma-radost.mp3"
+    },
+    {
+      "name": "Já vás zničim",
+      "filename": "ja-vas-znicim.mp3"
+    },
+    {
+      "name": "Jistě",
+      "filename": "jiste.mp3"
+    },
+    {
+      "name": "Máš spojení? Ale coby",
+      "filename": "mas-spojeni-ale-coby.mp3"
+    },
+    {
+      "name": "Máte spojení? Nefunguje",
+      "filename": "mate-spojeni-nefunguje.mp3"
+    },
+    {
+      "name": "Odchod!",
+      "filename": "odchod.mp3"
+    },
+    {
+      "name": "Odpovězte na střelbu",
+      "filename": "odpovezte-na-strelbu.mp3"
+    },
+    {
+      "name": "Proč nepracuje střelecká duden",
+      "filename": "proc-nepracuje-strelecka-duden.mp3"
+    },
+    {
+      "name": "Proč ten šofér tak dlouho stojí",
+      "filename": "proc-ten-sofer-tak-dlouho-stoji.mp3"
+    },
+    {
+      "name": "Promiň",
+      "filename": "promin.mp3"
+    },
+    {
+      "name": "Rozum zůstává stát",
+      "filename": "rozum-zustava-stat.mp3"
+    }
+  ],
+  "references": [
+    {
+      "name": "Tankový prapor",
+      "source": "ČSFD",
+      "url": "https://www.csfd.cz/film/7058-tankovy-prapor/prehled/"
+    }
+  ]
+}
