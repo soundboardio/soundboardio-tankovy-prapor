@@ -16,20 +16,27 @@
   "version": "1.0.0",
   "icons": [
     {
-      "src": "/icons/og-image.jpg",
-      "sizes": "1280x720",
+      "src": "/icons/og-v2.jpg",
+      "sizes": "1200x630",
       "type": "image/jpeg"
     },
     {
-      "src": "/icons/icon-192x192.png",
+      "src": "/icons/icon-v2-192.png",
       "sizes": "192x192",
-      "purpose": "any",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     },
     {
-      "src": "/icons/icon-512x512.png",
+      "src": "/icons/icon-v2-512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-v2-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ],
   "tiles": [
